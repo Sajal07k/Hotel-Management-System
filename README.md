@@ -1,8 +1,11 @@
 # 🏨 Hotel Management System 
 Welcome to the Hotel Management System, a console-based Java application designed to manage hotel reservations efficiently.
-This project helps handle room reservations, guest details, and booking updates using Core Java and JDBC with MySQL.
+This project handles room reservations, guest details, and booking updates using **Core Java and JDBC with MySQL**.
 
-It is suitable for learning database connectivity, CRUD operations, and menu-driven Java applications.
+All database operations are implemented using **PreparedStatement** to ensure secure and efficient data handling
+and to prevent SQL injection attacks.
+
+It is suitable for learning database connectivity, **secure CRUD operations**, and menu-driven Java applications.
 
 ## ✨ Features
 * Reserve a Room
@@ -51,4 +54,4 @@ It is suitable for learning database connectivity, CRUD operations, and menu-dri
 ## Acknowledgments 🙏
 * Special thanks to all contributors and supporters of the Hotel Reservation System project.
   
-Happy booking! 🌆
+## Happy booking! 🌆
